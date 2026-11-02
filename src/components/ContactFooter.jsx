@@ -42,7 +42,7 @@ export default function ContactFooter({ topGap }) {
         >
           Envoyer la phrase →
         </a>
-        <span style={{ fontFamily: "'JetBrains Mono',monospace", fontSize: 12, color: '#A7A49E' }}>ou directement : hello@christaxelteky.com</span>
+        <span style={{ fontFamily: "'JetBrains Mono',monospace", fontSize: 12, color: '#A7A49E' }}>ou directement : axelteky333gmail.com</span>
       </div>
 
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', flexWrap: 'wrap', gap: 24, marginTop: 'clamp(100px,13vw,180px)', borderTop: '1px solid rgba(237,235,230,.25)', paddingTop: 20, fontFamily: "'JetBrains Mono',monospace", fontSize: 12, textTransform: 'uppercase', letterSpacing: '.04em' }}>
