@@ -6,7 +6,7 @@ export default function ContactFooter({ topGap }) {
 
   const subject = `Projet — ${form.type}`;
   const body = `Bonjour Axel,\n\nJe m'appelle ${form.name || '…'}, je travaille sur ${form.type} et j'aimerais ${form.goal}.\n\n`;
-  const mailHref = `mailto:hello@christaxelteky.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+  const mailHref = `mailto:axelteky333@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 
   return (
     <footer
